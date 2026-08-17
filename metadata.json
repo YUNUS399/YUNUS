@@ -1,0 +1,6 @@
+{
+  "name": "Master Bahan Ajar Interaktif IFP",
+  "description": "Kerangka media pembelajaran interaktif ramah sentuhan untuk Interactive Flat Panel (IFP) sekolah dengan simulasi, kuis, papan tulis, dan editor guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
